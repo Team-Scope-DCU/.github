@@ -4,7 +4,9 @@
   <img src="https://avatars.githubusercontent.com/u/0000000?s=200&v=4" width="120" alt="Organization Logo">
 </p>
 
-<h1 align="center">🚀 스코프팀 <strong>동물 커뮤니티 플랫폼</strong>!</h1>
+<h1 align="center">🚀 Scope <li>
+  <strong>동물 커뮤니티 플랫폼</strong></h1>
+</li>
 
 <p align="center">
   <a href="https://github.com/your-org">
